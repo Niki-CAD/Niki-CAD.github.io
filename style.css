@@ -1,0 +1,30 @@
+.site-header {
+    background-color: #f368e0;
+    color: #fff6fe;
+    height: 100vh;
+    font-family: monospace;
+    display: flex; /* flex is an easier way to manage the placement of things prior to flexit was quite difficult to comlete this task */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content {
+    margin: 10px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: #84187a 2px 5px 5px;
+}
+
+.course-link {
+    color: #fff6fe;
+}
+
+body {
+    margin: 0;
+}
