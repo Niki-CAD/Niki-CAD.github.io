@@ -1,5 +1,6 @@
 .site-header {
-    background-color: #f368e0;
+    background-image: url("bg.jpg");
+/*     background-color: #f368e0; */
     color: #fff6fe;
     height: 100vh;
     font-family: monospace;
