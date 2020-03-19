@@ -2,7 +2,6 @@
     background-image: url("bg1.jpg");
 /*     background-color: #f368e0; */
     color: #fff6fe;
-    height: 100vh;
     font-family: monospace;
     display: flex; /* flex is an easier way to manage the placement of things prior to flexit was quite difficult to comlete this task */
     flex-direction: column;
