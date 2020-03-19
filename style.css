@@ -1,7 +1,10 @@
+body {
+    margin: 0px;
+}
+
 .site-header {
-    background-image: url("bg1.jpg");
-/*     background-color: #f368e0; */
-    color: #fff6fe;
+    color: #2b5173;
+    height: 100vh;
     font-family: monospace;
     display: flex; /* flex is an easier way to manage the placement of things prior to flexit was quite difficult to comlete this task */
     flex-direction: column;
@@ -18,13 +21,10 @@
     height: 200px;
     width: 200px;
     align-self: center;
-    box-shadow: #84187a 2px 5px 5px;
+    box-shadow: #285386 2px 5px 5px;
 }
 
 .course-link {
     color: #fff6fe;
 }
 
-body {
-    margin: 0;
-}
