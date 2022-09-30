@@ -9,7 +9,7 @@ body {
     height: 100vh;
     font-family: monospace;
     display: flex; /* flex is an easier way to manage the placement of things prior to flexit was quite difficult to comlete this task */
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
